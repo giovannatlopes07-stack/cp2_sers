@@ -2,6 +2,9 @@
 
 Este repositório contém as soluções para duas tarefas práticas de ciência de dados usando dados reais do cenário energético e meteorológico brasileiro.
 
+Alunos:
+Enzo Posterlli Strinta - RM570035
+Giovanna Tristão Lopes - RM572552
 ---
 
 ## 1. Objetivo do Projeto
