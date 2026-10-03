@@ -13,8 +13,8 @@ O objetivo deste projeto é desenvolver modelos preditivos robustos aplicados ao
 
 ## 2. Fontes e Período dos Dados
 
-* **Dados de Classificação (ANEEL):** Obtidos de forma programática via API de Dados Abertos da Agência Nacional de Energia Elétrica (ANEEL). Representam outorgas ativas registradas e atualizadas até o momento da consulta.
-* **Dados Meteorológicos (Open-Meteo):** Obtidos a partir da API pública de dados históricos Open-Meteo para a região de Petrolina-PE (latitude -9.39, longitude -40.50), abrangendo o período de **01 de abril de 2025 a 30 de junho de 2025** (segundo trimestre).
+* **Dados de Classificação (ANEEL):** Obtidos de forma programática via API de Dados Abertos da Agência Nacional de Energia Elétrica (ANEEL). Representam outorgas ativas registradas e atualizadas até o momento da consulta. https://dadosabertos.aneel.gov.br/dataset/siga-sistema-de-informacoes-de-geracao-da-aneel | https://dadosabertos.aneel.gov.br/dataset/siga-sistema-de-informacoes-de-geracao-da-aneel/resource/11ec447d-698d-4ab8-977f-b424d5deee6a
+* **Dados Meteorológicos (Open-Meteo):** Obtidos a partir da API pública de dados históricos Open-Meteo para a região de Petrolina-PE (latitude -9.39, longitude -40.50), abrangendo o período de **01 de abril de 2025 a 30 de junho de 2025** (segundo trimestre). https://open-meteo.com/en/docs/historical-weather-api | 
 
 ---
 
